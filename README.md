@@ -10,3 +10,5 @@
 
 ## 数据来源
 [深圳市卫健委网站](http://wjw.sz.gov.cn/) 
+[全国疫情中高风险地区查询](https://covid.risk-region.ml/)
+[深圳市道路交通运行指数系统](http://tocc.jtys.sz.gov.cn/#/rt/street)
