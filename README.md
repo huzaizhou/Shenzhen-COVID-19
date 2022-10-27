@@ -14,9 +14,11 @@
 6_pic_to_vedio.py - 用上一步的图片生成视频
 
 ## 数据来源
-[深圳市卫健委网站](http://wjw.sz.gov.cn/) 
+[深圳市卫生健康委员会网站](http://wjw.sz.gov.cn/) 
 
 [全国疫情中高风险地区查询](https://covid.risk-region.ml/)
 
 [深圳市道路交通运行指数系统](http://tocc.jtys.sz.gov.cn/#/rt/street)
 
+## 发布
+视频已发布在哔哩哔哩：[深圳市新冠疫情每日变化-中高风险区与新增人数-数据可视化](https://www.bilibili.com/video/BV1Vg411h7Ft/)
